@@ -4,7 +4,7 @@ It's me, Agent017. A New member of GitHub Community. I hope I get accepted by yo
 ## My projects
 So far so i did some projects to learn varity of programming lang.
 here are some of them:
-# python
+# Python
 1. A calculator to calculate Areas of different type of Shapes 
 2. Game between You vs Cpu: Rock, Paper & Scissors
 3. An updated version of Rock, Paper & Scissors: including New Lizard & Spock as new Choice.
@@ -17,4 +17,4 @@ Without CSS, JS, nothing. Just to learn from the scratch from FreeCodeCamp:
 1) Portfolio of my self(beta)
 2) A student menu(beta)
 
-that's it for now, I'll update it in future. Grazie Mille
+That's it for now, I'll update the list in future. Grazie Mille
