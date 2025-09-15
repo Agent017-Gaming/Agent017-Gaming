@@ -9,7 +9,7 @@ here are some of them:
 2. Game between You vs Cpu: Rock, Paper & Scissors
 3. An updated version of Rock, Paper & Scissors: including New Lizard & Spock as new Choice.
 # Pure Html
-without css, javascript, just to learn from the scratch from FreeCodeCamp:
+Without CSS, JS, nothing. Just to learn from the scratch from FreeCodeCamp:
 1) Build a Cat photo app
 2) Build a Recipe Page: Tiramisu
 3) Build a Travel Agency Page: *Small Detail: I did it on the 1st day in the Office in my interny
