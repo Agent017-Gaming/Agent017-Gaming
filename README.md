@@ -8,6 +8,7 @@ here are some of them:
 1. A calculator to calculate Areas of different type of Shapes;
 2. Game between You vs Cpu: Rock, Paper & Scissors;
 3. An updated version of Rock, Paper & Scissors: including New Lizard & Spock as new Choice;
+4. A Pokemon-pedia: Not a project, can say a mini task
 # Pure Html
 Without CSS, JS, nothing. Just to learn from the scratch from FreeCodeCamp:
 1) Build a Cat photo app;
