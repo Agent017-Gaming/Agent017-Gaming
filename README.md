@@ -19,6 +19,6 @@ Without CSS, JS, nothing. Just to learn from the scratch from FreeCodeCamp:
 5) School-Work: Create a page where you describe Java and JS but with a catch. Means by clicking toggle button you can swap the text in between. 
 # Framework: Angular
 1) Portfolio of my self(beta);
-2) A student menu(beta);
+2) A student menu(Completed{I guess?});
 
 That's it for now, I'll update the list in future. Grazie Mille
