@@ -31,5 +31,5 @@ An Area dedicated just to Record and Save my School Work on different Languages
 4) A test on what we revised on the month of October. A shopping test, Includes 2 Tables, The details of the products on the Top Table and A cart to add them or remove them on the Bottom Table
 
 ## PHP - September
-1) 
+1) Just a warmup for on the PHP
 That's it for now, I'll update the list in future. Grazie Mille
