@@ -24,6 +24,11 @@ Without CSS, JS, nothing. Just to learn from the scratch from FreeCodeCamp:
 
 # School-task 2025/2026
 An Area dedicated just to Record and Save my School Work on different Languages
+## Java - TpSit
+1) es1 (We didnt give it a proper name)
+2) GaraAstronave
+3) Contatore
+
 ## HTML, CSS & JS - October
 1) A revise on the Buttons to Change Texts(Toggle) and Colour(1 part of the Texts);
 2) A revise on a Tables and How to interect with the Row and Colums via Css and Change their styles & Attributes upon actions
